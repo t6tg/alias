@@ -9,7 +9,11 @@
 | 3.| alias c="code ." |
 
 ### Set up in your .zshrc file
+1. fork this repositor
+2. Copy command in command.txt
+3. Edit in .zshrc
 ```
 $ vi ~/.zshrc
 ```
-#### add command in last line in file
+4. add command in last line
+
