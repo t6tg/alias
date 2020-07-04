@@ -9,7 +9,7 @@
 | 3.| alias c="code ." |
 
 ### Set up in your .zshrc file
-1. fork this repositor
+1. fork this repository
 2. Copy command in command.txt
 3. Edit in .zshrc
 ```
