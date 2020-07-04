@@ -7,3 +7,9 @@
 | 1.| alias y="yarn"   |
 | 2.| alias cl="clear" |
 | 3.| alias c="code ." |
+
+### Set up in your .zshrc file
+```
+$ vi ~/.zshrc
+```
+#### add command in last line in file
