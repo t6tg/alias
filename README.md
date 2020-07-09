@@ -8,6 +8,7 @@
 | 2.| alias cl="clear" |
 | 3.| alias c="code ." |
 | 4.| alias gcame="gc --amend |
+| 5.| alias m="mkdir" |
 
 ### Set up in your .zshrc file
 1. fork this repository
