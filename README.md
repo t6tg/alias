@@ -1,6 +1,4 @@
-
-
-<img src="https://i.pinimg.com/originals/df/ea/dd/dfeaddf703acf71277dbb1d6d81479b0.gif" width="50px"/>
+### Alias Command
 
 |No.|     Command      |
 |:-:|:----------------:|
@@ -9,6 +7,7 @@
 | 3.| alias c="code ." |
 | 4.| alias gcame="gc --amend |
 | 5.| alias m="mkdir" |
+| 6.| alias dk="docker" |
 
 ### Set up in your .zshrc file
 1. fork this repository
