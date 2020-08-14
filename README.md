@@ -8,6 +8,7 @@
 | 4.| alias gcame="gc --amend |
 | 5.| alias m="mkdir" |
 | 6.| alias dk="docker" |
+| 7.| alias jnb="jupyter notebook" |
 
 ### Set up in your .zshrc file
 1. fork this repository
