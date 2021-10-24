@@ -1,7 +1,34 @@
-alias y="yarn"
-alias cl="clear"
-alias c="code ."
+
 alias gcame="gc --amend"
-alias m="mkdir"
 alias dk="docker"
+alias vi="nvim"
+alias cl="clear"
+alias simulator="open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app"
+alias y="yarn"
+alias c="code ."
+# Adobe XD
+alias xd="open /Applications/Adobe\ XD/Adobe\ XD.app"
+alias mongo-start="brew services start mongodb-community@4.4"
+alias mongo-stop="brew services stop mongodb-community@4.4"
+#pip
+alias pip="pip3"
+# More
+alias docker-start="open /Applications/Docker.app"
+alias ktl="kubectl"
+alias vim="vi"
+# Dek-D Work
+alias work="cd /Volumes/Sandisk/Work/Document/dekd-workspace"
+alias gcdd='git config --local user.name "Thanawat Gulati" ; git config --local user.email "thanawat@dek-d.com"'
+# flinal project
+alias final="cd /Volumes/Sandisk/Work/Document/cisclassroom"
 alias jnb="jupyter notebook"
+alias lacie="cd /Volumes/Lacie/Work/Document"
+#alias
+alias rst="open /Applications/RStudio.app"
+alias spy="open /Applications/Spyder.app"
+alias iris-cli="/Users/thanawatgulati/iris-cli/main"
+alias ops="cd /Volumes/Sandisk/OpenSource/"
+alias cr="cargo run"
+alias cbr="cargo build --release"
+alias cn="cargo new"
+alias godoc="~/go/bin/godoc"
